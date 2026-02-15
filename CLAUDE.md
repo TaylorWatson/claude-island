@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Claude Island is a macOS menu bar app that displays Claude Code CLI session status in a Dynamic Island-style notch interface. It monitors running Claude Code instances, shows their status (idle, processing, waiting for approval), and enables tool approval/denial directly from the notch UI.
 
-**Requirements:** macOS 15.6+, Xcode 16.x, Swift 6 language mode
+**Requirements:** macOS 15.0+, Xcode 16.x, Swift 6 language mode
 
 ## Build Commands
 
